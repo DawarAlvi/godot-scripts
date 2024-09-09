@@ -7,6 +7,18 @@ extends CharacterBody3D
 #			HeadX : Node3D
 #				Camera
 
+# Input Map:
+# look_up
+# look_down
+# look_left
+# look_right
+# move_left
+# move_right
+# move_forward
+# move_back
+# sprint
+# jump
+
 # Signals : Autoload script
 #	signal stamina_updated
 
