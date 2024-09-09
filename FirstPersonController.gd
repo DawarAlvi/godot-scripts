@@ -17,6 +17,7 @@ extends CharacterBody3D
 # move_forward
 # move_back
 # sprint
+# walk
 # jump
 
 # Signals : Autoload script
